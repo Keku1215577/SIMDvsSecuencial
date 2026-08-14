@@ -1,0 +1,14 @@
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\bin\Debug\net8.0\SIMDvsSECUENCIAL.exe
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\bin\Debug\net8.0\SIMDvsSECUENCIAL.deps.json
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\bin\Debug\net8.0\SIMDvsSECUENCIAL.runtimeconfig.json
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\bin\Debug\net8.0\SIMDvsSECUENCIAL.dll
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\bin\Debug\net8.0\SIMDvsSECUENCIAL.pdb
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\obj\Debug\net8.0\SIMDvsSECUENCIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\obj\Debug\net8.0\SIMDvsSECUENCIAL.AssemblyInfoInputs.cache
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\obj\Debug\net8.0\SIMDvsSECUENCIAL.AssemblyInfo.cs
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\obj\Debug\net8.0\SIMDvsSECUENCIAL.csproj.CoreCompileInputs.cache
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\obj\Debug\net8.0\SIMDvsSECUENCIAL.dll
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\obj\Debug\net8.0\refint\SIMDvsSECUENCIAL.dll
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\obj\Debug\net8.0\SIMDvsSECUENCIAL.pdb
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\obj\Debug\net8.0\SIMDvsSECUENCIAL.genruntimeconfig.cache
+C:\Users\juans\Downloads\SIMDvsSECUENCIAL\obj\Debug\net8.0\ref\SIMDvsSECUENCIAL.dll
